@@ -1,4 +1,4 @@
-package com.aprendiz.proyecto;
+package com.aprendiz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
